@@ -1,2 +1,2 @@
-# react-component1
+# react-basic
 Created with CodeSandbox
